@@ -20,7 +20,19 @@ A curated list of awesome stuff in Bend, Oregon.
 
 - [MOsley WOtta](http://www.iammowo.com/) - Creative, speaker, performer, poet, visual artist and educator
 
+## Education
+
+- [Bend-LaPine School District](https://www.bend.k12.or.us/) - Local schools serving Bend, LaPine, and Sunriver
+- [Central Oregon Community College](https://www.cocc.edu) - Two-year community college
+- [Oregon State University - Cascades](http://osucascades.edu) - Four-year OSU branch
+
 ## Businesses
+
+### Coffee
+
+- [Backporch Coffee Roasters](http://www.backporchcoffeeroasters.com) - Three locations in central Bend
+- [Lone Pine Coffee Roasters](http://www.lonepinecoffeeroasters.com) - A small, family-run roastery tucked in downtown Bend
+- [Thump Coffee](https://thumpcoffee.com/) - Craft coffee roaster in downtown Bend
 
 ### Tech
 
