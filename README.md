@@ -4,21 +4,27 @@ A curated list of awesome stuff in Bend, Oregon.
 
 ## Webcams
 
-- [EyeonBend](http://eyeonbend.com/)
+- [EyeonBend](http://eyeonbend.com/) - Streaming video webcams in downtown, the Old Mill, and more
 
 ## Places
+
+### Trails
+
+- [Bend Trails](https://bendtrails.org) - trail maps, reviews, and current conditions
+- [Central Oregon Trail Alliance](http://cotamtb.com) - Constructs and maintains regional mountain biking trails
+- [Trail Directory - Bend Parks and Recreation District](http://www.bendparksandrec.org/parks__trails/trail_list/) - In-town trails with distances and maps
 
 ## People
 
 ### Musicians
 
-- [Mosley Wotta](http://www.iammowo.com/)
+- [MOsley WOtta](http://www.iammowo.com/) - Creative, speaker, performer, poet, visual artist and educator
 
 ## Businesses
 
 ### Tech
 
-- [BendTech](http://bendtech.com/)
-- [Craft CMS](https://craftcms.com/)
-- [FireWhat](http://www.firewhat.com/)
-- [Pro Q Solutions](http://proqsolutions.com/)
+- [BendTech](http://bendtech.com/) - Tech-focused coworking facility
+- [Craft CMS](https://craftcms.com/) - Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike.
+- [FireWhat](http://www.firewhat.com/) - A Geographic Information Systems (GIS) technology company, mapping emergency incidents, and tracking responders, in and out of the field
+- [Pro Q Solutions](http://proqsolutions.com/) - Web development and digital marketing for businesses and professionals
