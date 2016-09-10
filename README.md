@@ -19,6 +19,7 @@ A curated list of awesome stuff in Bend, Oregon.
 ### Tech
 
 - [BendTech](http://bendtech.com/)
+- [Bend Studio](http://bendstudio.com/)
 - [Cascade Divide](http://www.cascadedivide.com/)
 - [Craft CMS](https://craftcms.com/)
 - [FireWhat](http://www.firewhat.com/)
