@@ -37,6 +37,16 @@ A curated list of awesome stuff in Bend, Oregon.
 ### Tech
 
 - [BendTech](http://bendtech.com/) - Tech-focused coworking facility
+- [Bend Studio](http://bendstudio.com/)
+- [Cascade Divide](http://www.cascadedivide.com/)
 - [Craft CMS](https://craftcms.com/) - Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike.
 - [FireWhat](http://www.firewhat.com/) - A Geographic Information Systems (GIS) technology company, mapping emergency incidents, and tracking responders, in and out of the field
+- [Five Talent Software](http://www.fivetalent.com/)
+- [GL Solutions](http://www.glsolutions.com/)
+- [Heuya](http://www.hueya.io/)
+- [Kollective](http://kollective.com/)
 - [Pro Q Solutions](http://proqsolutions.com/) - Web development and digital marketing for businesses and professionals
+- [Savy](https://savyagency.com/)
+- [Smart Solutions](http://smartz.com/)
+- [Steady Budget](https://steadybudget.com/)
+- [Tech Soft 3D](http://www.techsoft3d.com/)
