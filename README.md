@@ -14,6 +14,10 @@ A curated list of awesome stuff in Bend, Oregon.
 - [Central Oregon Community College](https://www.cocc.edu) - Two-year community college
 - [Oregon State University - Cascades](http://osucascades.edu) - Four-year OSU branch
 
+## Food
+
+- [El Sancho](http://www.elsanchobend.com/) - Taco Shop and Mexican Food
+
 ## People
 
 - [MOsley WOtta](http://www.iammowo.com/) - Creative, speaker, performer, poet, visual artist and educator
