@@ -2,23 +2,11 @@
 
 A curated list of awesome stuff in Bend, Oregon.
 
-## Webcams
+## Coffee
 
-- [EyeonBend](http://eyeonbend.com/) - Streaming video webcams in downtown, the Old Mill, and more
-
-## Places
-
-### Trails
-
-- [Bend Trails](https://bendtrails.org) - trail maps, reviews, and current conditions
-- [Central Oregon Trail Alliance](http://cotamtb.com) - Constructs and maintains regional mountain biking trails
-- [Trail Directory - Bend Parks and Recreation District](http://www.bendparksandrec.org/parks__trails/trail_list/) - In-town trails with distances and maps
-
-## People
-
-### Musicians
-
-- [MOsley WOtta](http://www.iammowo.com/) - Creative, speaker, performer, poet, visual artist and educator
+- [Backporch Coffee Roasters](http://www.backporchcoffeeroasters.com) - Three locations in central Bend
+- [Lone Pine Coffee Roasters](http://www.lonepinecoffeeroasters.com) - A small, family-run roastery tucked in downtown Bend
+- [Thump Coffee](https://thumpcoffee.com/) - Craft coffee roaster in downtown Bend
 
 ## Education
 
@@ -26,15 +14,19 @@ A curated list of awesome stuff in Bend, Oregon.
 - [Central Oregon Community College](https://www.cocc.edu) - Two-year community college
 - [Oregon State University - Cascades](http://osucascades.edu) - Four-year OSU branch
 
-## Businesses
+## People
 
-### Coffee
+- [MOsley WOtta](http://www.iammowo.com/) - Creative, speaker, performer, poet, visual artist and educator
 
-- [Backporch Coffee Roasters](http://www.backporchcoffeeroasters.com) - Three locations in central Bend
-- [Lone Pine Coffee Roasters](http://www.lonepinecoffeeroasters.com) - A small, family-run roastery tucked in downtown Bend
-- [Thump Coffee](https://thumpcoffee.com/) - Craft coffee roaster in downtown Bend
+## Places
 
-### Tech
+### Trails
+
+- [Bend Trails](https://bendtrails.org) - Trail maps, reviews, and current conditions
+- [Central Oregon Trail Alliance](http://cotamtb.com) - Constructs and maintains regional mountain biking trails
+- [Trail Directory - Bend Parks and Recreation District](http://www.bendparksandrec.org/parks__trails/trail_list/) - In-town trails with distances and maps
+
+## Tech
 
 - [BendTech](http://bendtech.com/) - Tech-focused coworking facility
 - [Bend Studio](http://bendstudio.com/)
@@ -50,3 +42,7 @@ A curated list of awesome stuff in Bend, Oregon.
 - [Smart Solutions](http://smartz.com/)
 - [Steady Budget](https://steadybudget.com/)
 - [Tech Soft 3D](http://www.techsoft3d.com/)
+
+## Webcams
+
+- [EyeonBend](http://eyeonbend.com/) - Streaming video webcams in downtown, the Old Mill, and more
