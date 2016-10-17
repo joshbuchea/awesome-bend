@@ -14,6 +14,13 @@ A curated list of awesome stuff in Bend, Oregon.
 - [Central Oregon Community College](https://www.cocc.edu) - Two-year community college
 - [Oregon State University - Cascades](http://osucascades.edu) - Four-year OSU branch
 
+## Events
+
+### Conferences
+
+- [Bend Design Conference](http://benddesign.org/)
+- [Swivel Digital Marketing Conference](https://www.swivelnow.com/ The conference many of you have known and loved as Bend WebCAM over the past several years has morphed into “Swivel”.)
+
 ## Food
 
 - [El Sancho](http://www.elsanchobend.com/) - Taco Shop and Mexican Food
