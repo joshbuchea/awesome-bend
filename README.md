@@ -19,7 +19,7 @@ A curated list of awesome stuff in Bend, Oregon.
 ### Conferences
 
 - [Bend Design Conference](http://benddesign.org/)
-- [Swivel Digital Marketing Conference](https://www.swivelnow.com/ The conference many of you have known and loved as Bend WebCAM over the past several years has morphed into “Swivel”.)
+- [Swivel Digital Marketing Conference](https://www.swivelnow.com/) - The conference many of you have known and loved as Bend WebCAM over the past several years has morphed into “Swivel”.
 
 ## Food
 
