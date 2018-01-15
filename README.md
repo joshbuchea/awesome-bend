@@ -47,6 +47,7 @@ A curated list of awesome stuff in Bend, Oregon.
 - [Five Talent Software](http://www.fivetalent.com/)
 - [GL Solutions](http://www.glsolutions.com/)
 - [Heuya](http://www.hueya.io/)
+- [LeadMethod](http://leadmethod.com/) - Distributor Lead Management Software
 - [Kollective](http://kollective.com/)
 - [Pro Q Solutions](http://proqsolutions.com/) - Web development and digital marketing for businesses and professionals
 - [Savy](https://savyagency.com/)
